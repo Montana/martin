@@ -1,6 +1,6 @@
 # Martin
 
-A modern, typography-focused GitHub Pages theme for 2025. Inspired by the original Martin theme by [Allison House](https://github.com/house).
+A modern, typography-focused GitHub Pages theme for 2025. Inspired by the original Martin theme by [House](https://github.com/house).
 
 ## Basic Layout
 
